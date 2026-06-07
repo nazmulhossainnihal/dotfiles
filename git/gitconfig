@@ -1,0 +1,7 @@
+[user]
+	name = Nazmul Hossain Nihal
+	email = nazmulh@nihal.one
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = ~/.gitignore_global
